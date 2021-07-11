@@ -20,7 +20,8 @@ Use flag -igfxvesa to boot up if your encounter black screen.
 
 Please change MLB, SystemSerialNumber, SystemUUID into your code:
 
-```<dict>
+```
+	<dict>
 		<key>AdviseFeatures</key>
 		<false/>
 		<key>MLB</key>
